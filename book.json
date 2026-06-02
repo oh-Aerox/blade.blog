@@ -1,0 +1,21 @@
+{
+    "title": "知识库",
+    "author": "blade",
+    "plugins": [
+        "-autocover",
+        "-github-buttons",
+        "image-captions",
+        "-latex-codecogs",
+        "-mathjax",
+        "prism", 
+        "prism-themes", 
+        "-highlight",
+        "sharing"
+    ],
+    "pluginsConfig": {
+        "image-captions": {
+            "attributes": { "width": "600" },
+            "caption": "图 _PAGE_LEVEL_._PAGE_IMAGE_NUMBER_ - _CAPTION_"
+        }
+    }
+}
